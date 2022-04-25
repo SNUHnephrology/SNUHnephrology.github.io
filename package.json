@@ -1,5 +1,5 @@
 {
-  "homepage": "https://SNUHnephrology.github.io",
+  "homepage": " https://snuhnephrology.github.io/",
   "name": "calculator",
   "version": "0.1.0",
   "private": true,
@@ -27,7 +27,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy": "npm run build",
+    "predeploy": "react-scripts build",
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
